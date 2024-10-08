@@ -18,8 +18,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, sempre em busca de 
 
 Aqui estão algumas das tecnologias e ferramentas com as quais estou mais familiarizado:
 
-- **Linguagens:** JavaScript
-- **Desenvolvimento Web:** HTML & CSS
+- **Linguagens:** JavaScript, PHP
+- **Desenvolvimento Web:** HTML, CSS
 - **Ferramentas:** Git, GitHub, VSCode
 
  ## Vamos Conectar?
