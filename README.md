@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, sempre em busca de 
 ## O que estou fazendo atualmente
 
 - 🎓 Aprendendo novas tecnologias e aprofundando meus conhecimentos em programação.
-- 👥 Contribuindo para projetos de código aberto e sempre buscando participar de novas iniciativas que me desafiem a crescer.
+- 👥 Contribuindo para projetos de código aberto e sempre buscando participar de novas iniciativas que me desafiem a crescer!
 
 ## Tecnologias e Ferramentas
 
