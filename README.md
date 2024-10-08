@@ -21,3 +21,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou mais famili
 - **Linguagens:** JavaScript
 - **Desenvolvimento Web:** HTML & CSS
 - **Ferramentas:** Git, GitHub, VSCode
+
+ ## Vamos Conectar?
+
+Sinta-se à vontade para entrar em contato! Estou sempre aberto para conversar sobre novas ideias, oportunidades ou apenas bater um papo sobre tecnologia. 😄
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kyan.zip) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kennedy-araujo)
